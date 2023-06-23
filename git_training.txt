@@ -8,8 +8,5 @@ Develop_1_3
 Master_2
 Master 3
 Features_1
-<<<<<<< HEAD
 feature_2
-=======
 master 4
->>>>>>> master
